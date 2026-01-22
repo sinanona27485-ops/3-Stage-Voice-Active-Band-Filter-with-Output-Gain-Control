@@ -1,5 +1,5 @@
 # 3-Stage Voice Active Band Filter with Output Gain Control
-
+> **An analog signal processing project designed to isolate human voice frequencies (300 Hz – 3.4 kHz) using purely analog components.**
 ## 📌 Project Overview
 **Circuit Analysis II Design Lab Report** **Author:** Sinan ONA  
 **Institution:** Muğla Sıtkı Koçman University, Electrical & Electronics Engineering
@@ -82,3 +82,4 @@ This analog filter design is applicable in various industrial and consumer audio
 * **Telemetry & Analog Radio:** Signal tuning and noise reduction.
 
 ---
+
